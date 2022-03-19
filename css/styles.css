@@ -259,6 +259,12 @@ footer {
     background: #f2f2f5
 }
 
+#stat-right{
+    width: 100%;
+    height: 600px;
+}
+
+
 #lead {
     position: relative;
     height: 100vh;
@@ -616,6 +622,10 @@ footer {
     font-size: 1.2em
 }
 
+#skills img {
+
+    padding-bottom: 25px;
+}
 #contact {
     padding: 50px 15px;
     background: #3498db;
@@ -753,6 +763,16 @@ footer {
     .vtimeline-content {
         margin-left: 70px
     }
+    #stat-left{
+        max-width:750px;
+        width: 100%;
+    }
+    #stat-right{
+
+        max-width:750px;
+        width: 100%;
+    }
+    
 }
 
 @media only screen and (max-width: 992px) {
@@ -785,6 +805,16 @@ footer {
     #about p {
         text-align: left
     }
+    #stat-left{
+        max-width:992px;
+        width: 100%;
+    }
+    #stat-right{
+
+        max-width:992px;
+        width: 100%;
+    }
+    
 }
 
 @media only screen and (max-width: 768px) {
@@ -853,6 +883,16 @@ footer {
     .social {
         text-align: center
     }
+    #stat-left{
+        max-width:768px;
+        width: 100%;
+    }
+    #stat-right{
+
+        max-width:768px;
+        width: 100%;
+    }
+    
 }
 
 @media only screen and (max-width: 480px) {
@@ -867,5 +907,14 @@ footer {
     #lead-content a {
         font-size: 0.9em;
         padding: 5px 10px
+    }
+    #stat-left{
+        max-width:480px;
+        width: 100%;
+    }
+    #stat-right{
+
+        max-width:480px;
+        width: 100%;
     }
 }
