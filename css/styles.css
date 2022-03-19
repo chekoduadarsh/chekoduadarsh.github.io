@@ -764,7 +764,7 @@ footer {
         margin-left: 70px
     }
     #stat-left{
-        max-width:750px;
+        max-width:480px;
         width: 100%;
     }
     #stat-right{
@@ -806,7 +806,7 @@ footer {
         text-align: left
     }
     #stat-left{
-        max-width:992px;
+        max-width:480px;
         width: 100%;
     }
     #stat-right{
@@ -884,7 +884,7 @@ footer {
         text-align: center
     }
     #stat-left{
-        max-width:768px;
+        max-width:480px;
         width: 100%;
     }
     #stat-right{
