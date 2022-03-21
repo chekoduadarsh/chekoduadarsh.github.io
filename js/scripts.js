@@ -70,7 +70,7 @@
         $this.find('.vtimeline-content').each(function() {
             var date = $(this).data('date');
             if (date) { // Prepend if exists
-                $(this).parent().prepend('<span class="vtimeline-date">'+date+'</span>');
+                $(this).parent().prepend('<span class="vtimeline-date" style="color:#3498db;">'+date+'</span>');
             }
         });
 
