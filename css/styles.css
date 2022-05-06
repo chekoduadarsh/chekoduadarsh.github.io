@@ -25,7 +25,7 @@ body.active {
     background: #fff;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #dcd9d9
+    border: 1px solid #3498db
 }
 
 .no-js #experience-timeline>div h3 {
@@ -363,7 +363,7 @@ footer {
 
 #about {
     padding: 75px 15px;
-    border-bottom: 1px solid #dcd9d9
+    border-bottom: 1px solid #3498db
 }
 
 #about h2 {
@@ -378,7 +378,7 @@ footer {
 #experience {
     padding: 50px 15px;
     text-align: center;
-    border-bottom: 1px solid #dcd9d9
+    border-bottom: 1px solid #3498db
 }
 
 #experience h2 {
@@ -483,7 +483,7 @@ footer {
 
 #education {
     padding: 50px 15px 20px 15px;
-    border-bottom: 1px solid #dcd9d9;
+    border-bottom: 1px solid #3498db;
     text-align: center
 }
 
@@ -496,7 +496,7 @@ footer {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
-    border: 1px solid #dcd9d9;
+    border: 1px solid #3498db;
     text-align: left
 }
 
@@ -531,7 +531,7 @@ footer {
 
 #projects {
     padding: 50px 15px;
-    border-bottom: 1px solid #dcd9d9;
+    border-bottom: 1px solid #3498db;
     text-align: center
 }
 
@@ -709,7 +709,7 @@ footer {
 .optional-section {
     padding: 50px 15px;
     text-align: center;
-    border-top: 1px solid #dcd9d9
+    border-top: 1px solid #3498db
 }
 
 .optional-section h2 {
@@ -720,7 +720,7 @@ footer {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
-    border: 1px solid #dcd9d9;
+    border: 1px solid #3498db;
     background: #fff;
     text-align: left
 }
