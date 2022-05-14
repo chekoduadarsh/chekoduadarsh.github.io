@@ -266,6 +266,16 @@ footer {
     background: #fff;
 }
 
+#code{
+
+  color: white;
+}
+
+#code-repl{
+
+    color: white;
+  }
+  
 
 #lead {
     position: relative;
