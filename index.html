@@ -11,10 +11,12 @@
     <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
-
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 </head>
 
 <body id="body">
+    
     <div id="mobile-menu-open" class="shadow-large">
         <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
@@ -43,11 +45,18 @@
     </header>
     <!-- End header -->
 
+
+    <div id="model">
+    <model-viewer src="assets/chekoduadarsh-2021.gltf" alt="VR Headset" auto-rotate camera-controls ar ios-src="assets/chekoduadarsh-2021.gltf"></model-viewer>
+
+    </div>
     <div id="lead">
+
         <div id="lead-content">
             <h1>Adarsh C</h1>
             <h2>Software Engineer</h2>
             <h4>101010</h4>
+
             <a href="https://drive.google.com/file/d/1vvlXw6bUA6_QQBlRnwC01vRSxJOpf8MC/view?usp=sharing"
                 class="btn-rounded-white">Download Resume</a></br></br>
             <a href="https://github.com/chekoduadarsh" target="_blank"><img src="images/github-logo-white.png" width="64px"

@@ -294,7 +294,16 @@ footer {
     color: white;
   }
   
+  #model  model-viewer{
 
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    z-index: 10;
+    top: 25%;
+    left: 40%;
+    text-align: center;
+}
 #lead {
     position: relative;
     height: 100vh;
@@ -303,7 +312,7 @@ footer {
     background: url(../images/lead-bg.jpg);
     background-size: cover;
     padding: 15px;
-    overflow: hidden
+    overflow: hidden;
 }
 
 #lead-content {
@@ -312,7 +321,7 @@ footer {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center
+    text-align: center;
 }
 
 #lead-content h1, #lead-content h2 {
