@@ -289,6 +289,14 @@ footer {
   color: white;
 }
 
+
+#skyline a{
+    
+    background: -webkit-linear-gradient(#ffffff, #9d07e8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
 #code-repl{
 
     color: white;
